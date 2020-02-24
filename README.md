@@ -13,4 +13,4 @@ Un blog increible para el curso de Git y Github de [Platzi](https://platzi.com "
 * Incluye ejemplos en Windows, Linux y Mac 
 * Disponible para todas las edades 
 
-Y como un amable recordatorio: **Esto readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso")
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso")
